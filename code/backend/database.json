@@ -1,0 +1,62 @@
+[
+    {
+        "image_name": "20250730_abb4390c291147feb551f0eb05f834f0.jpg",
+        "description": "Die Beschreibung",
+        "tags": [
+            "left",
+            "index"
+        ],
+        "user_data": {
+            "sex": "male",
+            "age": 59,
+            "factors": [
+                "hypertonia"
+            ]
+        }
+    },
+    {
+        "image_name": "20250730_915b57f046cd4a028c0d95afe9ecbc46.jpg",
+        "description": "Die Beschreibung",
+        "tags": [
+            "left",
+            "index"
+        ],
+        "user_data": {
+            "sex": "male",
+            "age": 59,
+            "factors": [
+                "hypertonia"
+            ]
+        }
+    },
+    {
+        "image_name": "20250730_b38807f7531047b283596321134f1ab5.jpg",
+        "description": "Die Beschreibung",
+        "tags": [
+            "left",
+            "index"
+        ],
+        "user_data": {
+            "sex": "male",
+            "age": 59,
+            "factors": [
+                "hypertonia"
+            ]
+        }
+    },
+    {
+        "image_name": "20250730_e00e8e1ba1384b6992cf145e2daae128.jpg",
+        "description": "Die Beschreibung",
+        "tags": [
+            "left",
+            "index"
+        ],
+        "user_data": {
+            "sex": "male",
+            "age": 59,
+            "factors": [
+                "hypertonia"
+            ]
+        }
+    }
+]
