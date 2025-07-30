@@ -1,0 +1,32 @@
+{
+    "label": {
+        "colours": {
+            "normal_text": "#FFFFFF"
+        }
+    },
+    "button": {
+        "colours": {
+            "normal_bg": "#9ebbdf",
+            "normal_back": "#007BFF",
+            "hovered_back": "#0056b3",
+            "selected_back": "#0056b3",
+            "active_back": "#0056b3",
+            "normal_text": "#000000",
+            "hovered_text": "#FFFFFF",
+            "selected_text": "#FFFFFF",
+            "active_text": "#FFFFFF"
+        },
+         "font":
+         {
+             "name": "American Typewriter",
+             "size": "20",
+             "bold": "0",
+             "italic": "0"
+         },
+         "misc":
+         {
+             "shape": "rounded_rectangle",
+             "shape_corner_radius": "10,10,10,10"
+         }
+    }
+}

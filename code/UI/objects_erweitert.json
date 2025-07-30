@@ -1,0 +1,34 @@
+{
+    "objects": [
+        {
+            "id": 1,
+            "object_type": "Rectangle",
+            "position": [
+                100,
+                200
+            ],
+            "size_x": 50,
+            "size_y": 75
+        },
+        {
+            "id": 2,
+            "object_type": "Circle",
+            "position": [
+                50,
+                50
+            ],
+            "size_x": 30,
+            "size_y": 30
+        },
+        {
+            "id": 3,
+            "object_type": "Text",
+            "position": [
+                150,
+                250
+            ],
+            "size_x": 300,
+            "size_y": 20
+        }
+    ]
+}
