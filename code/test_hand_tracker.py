@@ -3,7 +3,7 @@ import mediapipe as mp
 import numpy as np
 
 # Assuming HandTracker.py is in the same directory or accessible via PYTHONPATH
-from HandTracker import HandTracker
+from handtracker import HandTracker
 
 def main():
     """
